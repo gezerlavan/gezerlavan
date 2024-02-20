@@ -1,6 +1,6 @@
 # Hey! 👋🏼 I'm Tal.
 
-🌍  I'm a Full Stack Developer based in Israel.
+🌍  I'm a Full Stack Developer based in Israel.</br>
 ✉️  <a href="mailto:talelias2+github@gmail.com">contact me</a>
 
 ### Skills
